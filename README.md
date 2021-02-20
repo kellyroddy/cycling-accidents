@@ -1,4 +1,4 @@
-# Cycling accidents data analysis
+# Cycling accidents
 
 ## Introduction
 
